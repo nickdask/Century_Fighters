@@ -1,0 +1,11 @@
+Copy Audio folder to Assets
+
+Replace animControl script with new animControl script
+
+Go to Player 1 > Alpha@Alpha in the Basic Arena pane
+
+Copy the sword.wav audio file from from the Audio folder to the "Sword Sound" section of the Script component
+
+Add Audio Source component and copy the same audio file to the AudioClip section of it
+
+If you want to turn the sound (and all sounds) off, just switch to Main Camera in the Basic Arena pane and uncheck "Audio Listener"
